@@ -1,0 +1,5 @@
+sass --watch ./style.scss ./style.css
+
+git remote add docker https://github.com/Homvi/closingExamPracticeDocker.git
+git branch -M main
+git push -u origin main
